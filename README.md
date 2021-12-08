@@ -6,6 +6,9 @@
       <img width="256" height="256" alt="My personal logo." src="https://robotoskunk.com/resources/img/meta-icon.png">
     </a>
   </p>
+  <p>
+    <a href="https://ko-fi.com/F1F576K8X"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"></a>
+  </p>
 </div>
 
 I'm RobotoSkunk, a hobbyist developer who creates video games, NodeJS servers and websites :D. I'm currently developing a login API for my website and a video game called PixelMan Adventures.
