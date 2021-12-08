@@ -1,5 +1,12 @@
 # Welcome to my GitHub profile!
-![My logo](https://user-images.githubusercontent.com/49355293/145173585-2a8dbe46-e68f-4309-abcc-23b46a6ca2a2.png)
+
+<div align="center">
+  <p>
+    <a href="https://robotoskunk.com">
+      <img width="256" height="256" alt="My personal logo." src="https://robotoskunk.com/resources/img/meta-icon.png">
+    </a>
+  </p>
+</div>
 
 I'm RobotoSkunk, a hobbyist developer who creates video games, NodeJS servers and websites :D. I'm currently developing a login API for my website and a video game called PixelMan Adventures.
 
