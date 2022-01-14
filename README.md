@@ -18,3 +18,17 @@ I'm RobotoSkunk, a hobbyist developer who creates video games, NodeJS servers an
 Do you want to know more about me? [Go to my website](https://robotoskunk.com/about) to get a little more information.
 
 Do you want to contact me? You can talk me [on a social network](https://robotoskunk.com/social) or [send me an email](mailto:contact@robotoskunk.com).
+
+
+<div align="center">
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+      <img width="495" height="195" alt="RobotoSkunk's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=RobotoSkunk">
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+      <img width="300" height="405" alt="Top langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8">
+    </a>
+  </p>
+</div>
