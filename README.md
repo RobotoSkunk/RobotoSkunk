@@ -15,7 +15,8 @@ I'm RobotoSkunk, a hobbyist developer who creates video games, NodeJS servers an
 
 <div align="center">
 	<a href="https://github.com/Platane/snk">
-		<img src="assets/silly-contribution-snake.svg" alt="Silly contribution snake animation" width="846" height="185">
+		<img src="https://raw.githubusercontent.com/RobotoSkunk/RobotoSkunk/output/silly-contribution-snake-dark.svg#gh-dark-mode-only" alt="Silly contribution snake animation" width="846" height="185">
+		<img src="https://raw.githubusercontent.com/RobotoSkunk/RobotoSkunk/output/silly-contribution-snake.svg#gh-light-mode-only" alt="Silly contribution snake animation" width="846" height="185">
 	</a>
 </div>
 
