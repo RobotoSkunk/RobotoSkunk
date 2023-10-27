@@ -13,8 +13,13 @@
 
 I'm RobotoSkunk, a hobbyist developer who creates video games, NodeJS servers and websites :D. I'm currently developing a login API for my website and a video game called PixelMan Adventures.
 
-![Silly contribution snake animation](https://raw.githubusercontent.com/RobotoSkunk/RobotoSkunk/output/silly-contribution-snake-dark.svg#gh-dark-mode-only)
-![Silly contribution snake animation](https://raw.githubusercontent.com/RobotoSkunk/RobotoSkunk/output/silly-contribution-snake.svg#gh-light-mode-only)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobotoSkunk/RobotoSkunk/output/silly-contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobotoSkunk/RobotoSkunk/output/silly-contribution-snake.svg" />
+    <img alt="Silly contribution snake animation" src="github-snake.svg" />
+  </picture>
+</div>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
