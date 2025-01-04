@@ -11,7 +11,7 @@
   </p>
 </div>
 
-I'm RobotoSkunk, a hobbyist developer who creates video games, NodeJS servers and websites :D. I'm currently developing a login API for my website and a video game called PixelMan Adventures.
+I'm RobotoSkunk, a Full-Stack developer who creates video games, NodeJS servers and websites :D. I'm currently working on building a software company and some video games too.
 
 <div align="center">
   <picture>
