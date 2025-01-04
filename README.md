@@ -3,7 +3,7 @@
 <div align="center">
   <p>
     <a href="https://robotoskunk.com" target="_blank">
-      <img width="256" height="256" alt="My personal logo." src="https://robotoskunk.com/assets/img/meta-icon.webp">
+      <img width="256" height="256" alt="My personal logo." src="./assets/logo.svg">
     </a>
   </p>
   <p>
