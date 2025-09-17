@@ -11,7 +11,7 @@
   </p>
 </div>
 
-I'm RobotoSkunk, a Full-Stack developer who creates video games, NodeJS servers and websites :D. I'm currently working on building a software company and some video games too.
+I'm RobotoSkunk, a computer systems engineer who creates NodeJS servers and websites. I'm currently working on building a software company and some video games too.
 
 <div align="center">
   <picture>
@@ -37,9 +37,3 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
     </a>
   </p>
 </div>
-
-#
-
-Do you want to know more about me? [Go to my website](https://robotoskunk.com/about) to get a little more information.
-
-Do you want to contact me? You can talk me [on a social network](https://robotoskunk.com/social) or [send me an email](mailto:contact@robotoskunk.com).
