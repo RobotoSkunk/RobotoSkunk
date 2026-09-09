@@ -1,39 +1,35 @@
-# Welcome to my GitHub profile!
-
 <div align="center">
   <p>
     <a href="https://robotoskunk.com" target="_blank">
-      <img width="256" height="256" alt="My personal logo." src="./assets/logo.svg">
+      <img
+        width="256"
+        height="256"
+        alt="My personal logo."
+        src="./assets/logo.svg"
+      >
     </a>
   </p>
-  <p>
-    <a href="https://ko-fi.com/F1F576K8X"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" width="223" height="30"></a>
-  </p>
+  <h1>Welcome to my GitHub Profile!</h1>
 </div>
 
-I'm RobotoSkunk, a computer systems engineer who creates NodeJS servers and websites. I'm currently working on building a software company and some video games too.
+I'm Edgar Lima, a Mexican computer systems engineer who focuses primarily on
+server and web application development.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobotoSkunk/RobotoSkunk/output/silly-contribution-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobotoSkunk/RobotoSkunk/output/silly-contribution-snake.svg" />
-    <img alt="Silly contribution snake animation" src="github-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/RobotoSkunk/RobotoSkunk/output/silly-contribution-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/RobotoSkunk/RobotoSkunk/output/silly-contribution-snake.svg"
+    />
+    <img
+      alt="Silly contribution snake animation"
+      src="github-snake.svg"
+    />
   </picture>
 </div>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
-#
-
-<div align="center">
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img width="495" height="195" alt="RobotoSkunk's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=RobotoSkunk">
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img width="300" height="405" alt="Top langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8">
-    </a>
-  </p>
-</div>
